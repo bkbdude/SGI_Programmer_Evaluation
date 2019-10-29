@@ -1,0 +1,8 @@
+﻿  Point2D.cpp
+  Rectangle.cpp
+  SGI_Programmer_Evaluation.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 10 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  SGI_Programmer_Evaluation.vcxproj -> C:\Users\bkbdude\source\repos\SGI_Programmer_Evaluation\Release\SGI_Programmer_Evaluation.exe
